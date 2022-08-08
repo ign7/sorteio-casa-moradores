@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\sorteio\bin\Debug\net6.0\sorteio.exe
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\sorteio\bin\Debug\net6.0\sorteio.deps.json
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\sorteio\bin\Debug\net6.0\sorteio.runtimeconfig.json
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\sorteio\bin\Debug\net6.0\sorteio.dll
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\sorteio\bin\Debug\net6.0\sorteio.pdb
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\sorteio\obj\Debug\net6.0\sorteio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\sorteio\obj\Debug\net6.0\sorteio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\sorteio\obj\Debug\net6.0\sorteio.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\sorteio\obj\Debug\net6.0\sorteio.AssemblyInfo.cs
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\sorteio\obj\Debug\net6.0\sorteio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\sorteio\obj\Debug\net6.0\sorteio.dll
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\sorteio\obj\Debug\net6.0\refint\sorteio.dll
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\sorteio\obj\Debug\net6.0\sorteio.pdb
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\sorteio\obj\Debug\net6.0\sorteio.genruntimeconfig.cache
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\sorteio\obj\Debug\net6.0\ref\sorteio.dll
